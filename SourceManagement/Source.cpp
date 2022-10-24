@@ -23,12 +23,12 @@ int main() {
 
 
 void Hello_World() {
-	cout << "\nHello World! Im on GitHub!!!";
+	cout << "\nHello Universe! Im on GitHub!!!";
 
 	for (int i = 0; i < 3; i++) {
 		cout << "\n.";
 	}
-	cout << "\nGood Bye World, Nice knowing you!";
+	cout << "\nGood Bye Universe, Nice knowing you!";
 }
 
 
